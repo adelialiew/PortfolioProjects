@@ -2,11 +2,11 @@
 ==================================================================================
 Superstore Yearly Sales Analysis
 ==================================================================================
-Objective:
-    Identify patterns and trends in sales over time:
-        - Who are the biggest drivers year by year?
-        - Which segments and categories are growing, and which are stalling?
-        - Are there seasonal patterns to capitalize on?
+The goal is to analyze sales trends over time in order to uncover key patterns 
+and insights. This includes identifying the primary drivers of growth each year, 
+pinpointing which segments and categories are experiencing growth or stagnation, 
+and determining if there are seasonalpatterns that can be leveraged for 
+strategic advantage.
     
 Structure:
     - Yearly trends: high-level growth and contribution by Segment + Category
