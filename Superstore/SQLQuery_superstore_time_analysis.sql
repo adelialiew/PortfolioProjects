@@ -103,7 +103,7 @@ ORDER BY ORDER_YEAR, SEGMENT, CATEGORY;
 ==================================================================================
 Superstore Monthly Segment Sales Analysis
 ----------------------------------------------------------------------------------
-Objective: Analyze monthly sales performance by segment and determine the contribution of each segment
+Analyze monthly sales performance by segment and determine the contribution of each segment
 to total monthly sales, while identifying potential seasonal patterns.
 ==================================================================================
 */
