@@ -87,6 +87,6 @@ Customer Analysis Dashboard: Highlights customer profitability distribution, lif
 
 Shipping Delays Dashboard: Illustrates shipping delay trends across ship modes, average delay comparisons, and variability in shipping performance.
 
-You can view the full dashboards [here] (https://public.tableau.com/app/profile/adelia.liew/vizzes).
+You can view the full dashboards [here](https://public.tableau.com/app/profile/adelia.liew/vizzes).
 
 These visualizations are designed to expand on the insights uncovered through SQL, creating a full journey from data preparation to storytelling and business decision support.
