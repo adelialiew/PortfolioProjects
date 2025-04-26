@@ -2,7 +2,7 @@
 ==================================================================================
 Shipping Delays Analysis
 ----------------------------------------------------------------------------------
-Objective: This analysis aims to evaluate shipping delays, the impact of shipping modes
+This analysis aims to evaluate shipping delays, the impact of shipping modes
 on delays, and how different customer segments and regions contribute to overall delays.
 By understanding these metrics, we can identify opportunities for improving shipping efficiency
 and customer satisfaction.
