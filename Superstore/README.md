@@ -4,7 +4,8 @@ This repository contains SQL scripts used to create aggregated datasets for perf
 # Performance Analysis
 This section focuses on evaluating sales and profitability performance across different product categories, customer segments, and regions. The aim is to build a comprehensive understanding of where the business is thriving and where improvements are needed.
 
-**Key Performance Indicators (KPIs)**
+**Key Performance Indicators (KPIs)**:
+
 To build a foundational view of performance, I created key aggregated metrics grouped by Segment, Region, and Category:
 
 - total_orders: Count of distinct orders placed. This measures transaction volume and activity intensity.
