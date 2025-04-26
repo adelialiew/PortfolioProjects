@@ -76,4 +76,17 @@ To break down shipping performance, I structured the analysis around a few essen
 
 By examining these metrics across Category, Segment, Region, and Ship Mode, we can uncover where delays are more frequent or volatile. Shipping modes that show high variability or longer delays can be flagged for operational review. Similarly, understanding which customer groups are most impacted by delays can guide customer communication strategies or service guarantees. Ultimately, this analysis helps prioritize improvements in logistics processes, customer communication, and strategic partnerships with shipping carriers, all aimed at enhancing the customer experience.
 
+## Data visualization
+Each analysis section above is complemented by an interactive Tableau dashboard. These dashboards bring the data to life, allowing for dynamic exploration of performance, customer behavior, time trends, and operational efficiency.
 
+Performance Analysis Dashboard: Visualizes profitability drivers, sales vs. profit scatter plots, and profitability segmentation across segments, regions, and categories.
+
+Time Analysis Dashboard: Displays yearly growth trends, category and segment-level CAGR, total growth over time, and monthly seasonality patterns.
+
+Customer Analysis Dashboard: Highlights customer profitability distribution, lifespan patterns, spending behaviors, and customer-level profit vs. sales comparisons.
+
+Shipping Delays Dashboard: Illustrates shipping delay trends across ship modes, average delay comparisons, and variability in shipping performance.
+
+You can view the full dashboards [here] (https://public.tableau.com/app/profile/adelia.liew/vizzes).
+
+These visualizations are designed to expand on the insights uncovered through SQL, creating a full journey from data preparation to storytelling and business decision support.
