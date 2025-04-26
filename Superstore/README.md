@@ -1,6 +1,15 @@
 # Superstore Business Analysis in SQL
 This repository contains SQL scripts used to create aggregated datasets for performance, customer, and shipping delay analysis based on the Superstore dataset. The goal is to prepare the data for visualization and business insights generation in Tableau.
 
+## Introduction to the Data set
+The dataset used for this project is based on the widely recognized "Superstore" dataset, originally provided by Tableau.
+It contains detailed information on products, sales, customers, shipping logistics, and profitability metrics across various segments and regions.
+
+Although the data is based on a fictional retail company, it is structured to closely mirror real-world business operations, allowing for meaningful analysis and strategic insights.
+This dataset is commonly used in the data analytics community to practice and demonstrate skills in business intelligence, customer segmentation, operational performance evaluation, and profitability analysis.
+
+In this project, the Superstore data serves as a foundation to explore real-world business questions, design actionable KPIs, and create dynamic visual storytelling through SQL queries and Tableau dashboards.
+
 ## Performance Analysis
 This section focuses on evaluating sales and profitability performance across different product categories, customer segments, and regions. The aim is to build a comprehensive understanding of where the business is thriving and where improvements are needed.
 
