@@ -64,5 +64,16 @@ To create a detailed view of customer performance, I developed metrics focused o
 
 These insights lay the foundation for customer segmentation strategies, loyalty analysis, and tailored marketing initiatives. Identifying which customer groups generate sustained profit versus one-time spikes enables better resource allocation and retention strategies. Moreover, evaluating customer lifespan and monthly spend helps prioritize nurturing high-potential customers while addressing segments that may be declining in value.
 
+This section focuses on understanding shipping delays across different customer segments, regions, and shipping modes. The goal is to spot patterns that may impact customer satisfaction and operational efficiency.
+
+**Key Shipping Metrics:**
+To break down shipping performance, I structured the analysis around a few essential measures:
+
+- shipping_delay: The number of days between the order date and the ship date. A direct measure of service responsiveness.
+- num_orders: The count of orders within each group, helping to contextualize the delay data based on volume.
+- avg_shipping_delay: The average number of days it takes for an order to be shipped after purchase, revealing overall service efficiency.
+- stdev: The standard deviation of shipping delays, highlighting consistency (or inconsistency) within each segment.
+
+By examining these metrics across Category, Segment, Region, and Ship Mode, we can uncover where delays are more frequent or volatile. Shipping modes that show high variability or longer delays can be flagged for operational review. Similarly, understanding which customer groups are most impacted by delays can guide customer communication strategies or service guarantees. Ultimately, this analysis helps prioritize improvements in logistics processes, customer communication, and strategic partnerships with shipping carriers, all aimed at enhancing the customer experience.
 
 
