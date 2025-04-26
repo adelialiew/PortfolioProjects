@@ -9,8 +9,8 @@ and determining if there are seasonalpatterns that can be leveraged for
 strategic advantage.
     
 Structure:
-    - Yearly trends: high-level growth and contribution by Segment + Category
-    - Monthly trends: seasonality by Segment
+    - Yearly trends: High-level growth and contribution by Segment + Category
+    - Monthly trends: Seasonality by Segment
 ==================================================================================
 */
 
