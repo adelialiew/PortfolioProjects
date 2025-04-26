@@ -113,13 +113,12 @@ to total monthly sales, while identifying potential seasonal patterns.
 -- ==========================================
 WITH MONTHLY_SEGMENT_SALES AS (
     SELECT
-        -- Extract Month name 
-        DATENAME(MONTH, ORDER_DATE) AS ORDER_MONTH,  -- This gives the full month name
+        DATENAME(MONTH, ORDER_DATE) AS ORDER_MONTH, 
         SEGMENT,
         SUM(SALES) AS TOTAL_SALES_BY_SEGMENT
     FROM SUPERSTORE
     GROUP BY 
-        DATENAME(MONTH, ORDER_DATE),  -- Month name
+        DATENAME(MONTH, ORDER_DATE), 
         SEGMENT
 )
 
@@ -143,7 +142,6 @@ SELECT
 FROM MONTHLY_SEGMENT_SALES
 
 ORDER BY 
-    -- Ensure months are ordered correctly
     CASE 
         WHEN ORDER_MONTH = 'January' THEN 1
         WHEN ORDER_MONTH = 'February' THEN 2
