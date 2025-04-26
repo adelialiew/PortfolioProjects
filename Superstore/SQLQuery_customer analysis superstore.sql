@@ -2,7 +2,7 @@
 ==================================================================================
 Customer Analysis
 ----------------------------------------------------------------------------------
-Objective: Understand customer value and profitability over time, segmented 
+This analysis aims to understand customer value and profitability over time, grouped 
 by Segment and Category, to identify high-value customers, loyalty trends, and 
 profitability patterns.
 ==================================================================================
