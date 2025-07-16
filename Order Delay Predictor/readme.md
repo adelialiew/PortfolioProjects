@@ -3,7 +3,7 @@
 ---
 
 ## 1. Introduction
-This document outlines the **Order-Delay Predictor** project, a streamlined initiative designed to forecast whether an order from the Olist marketplace will be delivered **late (1) or on time (0)**. The project serves as a practical demonstration of essential data science and analytics skills, including data wrangling, feature engineering, model training, evaluation, and the deployment of a simple interactive application using Streamlit.
+This document outlines the **Order-Delay Predictor** project, a streamlined initiative designed to forecast whether an order from the Olist marketplace will be delivered **late (1) or on time (0)**. The project serves as a practical demonstration of essential data science and analytics skills, including data wrangling, feature engineering, model training, evaluation, and the deployment of a simple interactive application using Streamlit.The dataset used in this project is from [Kaggle: Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ---
 
